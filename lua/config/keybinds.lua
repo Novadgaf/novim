@@ -1,5 +1,3 @@
--- basic explorer
-vim.keymap.set("n", "<leader>pv", vim.cmd.Ex)
 
 -- telescope
 local builtin = require("telescope.builtin")
