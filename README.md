@@ -1,5 +1,5 @@
 # NoVim
-![NoVim Logo](https://imgur.com/a/IuCGCZT.png)
+![NoVim Logo](https://i.imgur.com/nmqwea5.png)
 
 ## Installation Instructions
 
