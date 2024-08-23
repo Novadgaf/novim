@@ -1,4 +1,3 @@
-# NoVim
 ![NoVim Logo](https://i.imgur.com/nmqwea5.png)
 
 ## Installation Instructions
